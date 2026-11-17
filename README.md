@@ -14,6 +14,7 @@ On the real VM you replace one file with your Day 2 code (see
 Python 3.8+ and Robot Framework 6+. If you did the Day 3 kit you already have everything.
 
 ```bash
+git clone https://github.com/arpit376/Day4_Python_LTE_Regrerssion_Suite.git
 cd day4_lte_regression
 python3 -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
